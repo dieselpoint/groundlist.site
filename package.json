@@ -1,7 +1,7 @@
 {
   "scripts": {
-    "docs:dev": "vuepress dev docs",
-    "docs:build": "vuepress build docs"
+    "docs:dev": "vuepress dev srcdocs",
+    "docs:build": "vuepress build srcdocs"
   },
   "dependencies": {
     "bootstrap-vue": "^2.4.0"

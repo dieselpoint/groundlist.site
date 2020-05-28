@@ -4,6 +4,18 @@ It should probably get redone with Nuxt static pages just to keep the cognitive 
 
 The pages are markdown with formatting provided in the /theme
 
+The setup here is non-standard, because the default vuepress setup has source in /docs,
+but that's where github pages wants to put things. So, src pages are in /srcdocs.
+The build scripts are still:
+
+yarn docs:dev
+yarn docs:build
+
+because I made the change in package.json to point to the other src dir.
+
+I also modified srcdocs/.vuepress/config.js to put the build in <project root>/docs
+
+
 To build this thing from the beginning:
 
 Start with a plain-vanilla Vuepress install.
