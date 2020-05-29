@@ -15,4 +15,5 @@ At core, Groundlist is a political customer relationship management (CRM) system
 
 Groundlist is free. Third-parties can integrate with the system and can charge for their services. You, as the consumer, can use these premium services if you choose to, or not.
 
-Groundlist is led by [Chris Cleveland](https://www.linkedin.com/in/clevelandchris/), who currently serves as chairman of the Chicago Republican Party.
+Groundlist is led by [Chris Cleveland](https://www.linkedin.com/in/clevelandchris/), former chairman of the Chicago Republican 
+Party and veteran of many political campaigns.
