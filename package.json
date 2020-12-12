@@ -1,16 +1,22 @@
 {
+  "name": "groundlist.site",
+  "version": "1.0.0",
+  "private": true,
   "scripts": {
-    "docs:dev": "vuepress dev srcdocs",
-    "docs:build": "vuepress build srcdocs"
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
   },
   "dependencies": {
-    "bootstrap-vue": "^2.4.0"
+    "@nuxt/content": "^1.9.0",
+    "@nuxtjs/axios": "^5.12.2",
+    "bootstrap": "^4.5.2",
+    "core-js": "^3.6.5",
+    "nuxt": "^2.14.6"
   },
   "devDependencies": {
-    "jquery": "^3.5.0",
-    "node-sass": "^4.13.1",
-    "popper.js": "^1.16.1",
-    "sass-loader": "^8.0.2",
-    "vuepress": "^1.3.0"
+    "node-sass": "^5.0.0",
+    "sass-loader": "^10.1.0"
   }
 }
