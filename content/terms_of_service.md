@@ -7,7 +7,7 @@ image: undraw_terms_red.svg
 
 This is a contact between you and Groundlist. By using the Groundlist service you agree to these terms.
 
+TBD
 
-Still a work in progress...
 
 

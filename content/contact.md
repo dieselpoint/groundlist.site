@@ -1,7 +1,6 @@
 ---
 title: Contact
 image: undraw_conversation_red.svg
-image_caption: Explaining to a liberal that penguins are real
 ---
 
 ## Contact

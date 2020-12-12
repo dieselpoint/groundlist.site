@@ -1,7 +1,6 @@
 ---
 title: About
 image: undraw_team_spirit_red.svg
-image_caption: We're actually not this young or good-looking
 ---
 
 ## About
