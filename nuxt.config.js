@@ -29,16 +29,19 @@ export default {
 
   // Modules (https://go.nuxtjs.dev/config-modules)
   modules: [
-    // https://go.nuxtjs.dev/bootstrap
-
-    // https://go.nuxtjs.dev/axios
+    "bootstrap-vue/nuxt",
     "@nuxtjs/axios",
-    // https://go.nuxtjs.dev/content
-    "@nuxt/content"
+    "@nuxt/content",
+    "@nuxtjs/style-resources"
   ],
 
   bootstrapVue: {
-    bootstrapCSS: false // Or `css: false`
+    bootstrapCSS: false, // Or `css: false`
+    bootstrapVueCSS: false // Or `bvCSS: false`
+  },
+
+  styleResources: {
+    //scss: ["~/assets/scss/_variables.scss", "bootstrap/scss/_variables.scss"]
   },
 
   // Axios module configuration (https://go.nuxtjs.dev/config-axios)
@@ -48,7 +51,12 @@ export default {
   content: {},
 
   // Build Configuration (https://go.nuxtjs.dev/config-build)
-  build: {},
+  build: {
+    /*
+    see /assets/notes.txt
+    */
+    extractCSS: true
+  },
 
   generate: {
     dir: "docs"

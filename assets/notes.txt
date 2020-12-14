@@ -1,0 +1,35 @@
+The right way to set up bootstrap:
+
+Include bootstrap-vue.
+https://bootstrap-vue.org/docs#nuxtjs-module
+
+Include 
+bootstrapVue: {
+    bootstrapCSS: false, // Or `css: false`
+    bootstrapVueCSS: false // Or `bvCSS: false`
+  }
+
+Create _variables.scss and a custom.scss. Variables import
+@import "bootstrap/scss/functions";
+@import "bootstrap/scss/variables";
+@import "bootstrap/scss/mixins";
+only. This is what you include when you need variables in a style section.
+Consider using nuxt style-resources.
+
+The custom.scss includes:
+@import "_variables.scss";
+@import "bootstrap/scss/bootstrap.scss";
+
+This makes sure all styles are overridden.
+
+In nuxt.config.js include
+build: {
+    extractCSS: true
+}
+
+This prevents the entirety of bootstrap being included in the header of every page.
+Unfortunately, it extracts all css, even the page-specific stuff.
+Consider using PurgeCSS to do css tree-shaking.
+https://github.com/FullHuman/purgecss
+https://purgecss.com/guides/nuxt.html
+

@@ -14,7 +14,7 @@
 
           <div>
             <a
-              href="https://app.groundlist.org/#/register"
+              href="https://app.groundlist.org/register"
               target="_blank"
               class="btn btn-primary hero-button mx-2"
               >Get A Free-Forever Account</a
@@ -47,7 +47,7 @@
 
     <div class="row">
       <div class="col-md-3 features">
-        <span class="list-head">Manage</span>
+        <span class="list-head footer-title">Manage</span>
         <ul>
           <li>Volunteers</li>
           <li>Donors</li>
@@ -57,7 +57,7 @@
         </ul>
       </div>
       <div class="col-md-3 features">
-        <span class="list-head">Communicate</span>
+        <span class="list-head footer-title">Communicate</span>
         <ul>
           <li>Email</li>
           <li>Mail</li>
@@ -68,7 +68,7 @@
         </ul>
       </div>
       <div class="col-md-3 features">
-        <span class="list-head">Analyze</span>
+        <span class="list-head footer-title">Analyze</span>
         <ul>
           <li>Maps</li>
           <li>Models</li>
@@ -76,7 +76,7 @@
         </ul>
       </div>
       <div class="col-md-3 features">
-        <span class="list-head">Connect</span>
+        <span class="list-head footer-title">Connect</span>
         <ul>
           <li>Facebook</li>
           <li>Twitter</li>
@@ -93,7 +93,8 @@
 </template>
 
 <style lang="scss" scoped>
-@import "~/assets/scss/groundlist.scss";
+@import "~/assets/scss/_variables.scss";
+
 .under {
   border-bottom: 2px solid $primary;
 }
@@ -120,9 +121,7 @@
   text-align: center;
 
   .list-head {
-    @extend .footer-title;
     margin-bottom: 0;
-
     color: $primary;
     font-weight: 900;
   }

@@ -1,0 +1,12 @@
+$font-family-base: "Nunito Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+
+$primary: #ac2421; // equals rgb(172,36,33)
+$primary-hover-link: #6c1715; // matches <a> hover color
+
+$theme-colors: (
+  "primary": $primary
+);
+
+@import "bootstrap/scss/functions";
+@import "bootstrap/scss/variables";
+@import "bootstrap/scss/mixins";
