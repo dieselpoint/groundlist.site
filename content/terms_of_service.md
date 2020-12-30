@@ -11,17 +11,13 @@ This is a contract between you and Groundlist. By using our service you agree to
 
 "Our service" or "the service" means the Groundlist app and website and any plugins that we provide. "We" or "our" means the Groundlist organization. "You" means the person who signed up for the service and the organization you represent.
 
-### Our Mission
-
-Our mission is to provide high-quality software to advance the conservative cause. 
-
 ### Use
 
 You agree to use this service solely for the purpose of helping a conservative or free-market-oriented cause. Conservative causes include Republican political campaigns, Republican party organizations, conservative or free-market-oriented advocacy or educational organizations, freedom-oriented public interest law firms, right-leaning social groups, certain ballot initiative groups, and similar organizations. To use this service for any other purpose you must get our explicit, official, written approval.
 
 You agree to provide accurate, truthful, and non-misleading information about yourself on the registration screen. If you are affiliated with any Democratic, liberal, or left-leaning organization, you are expressly prohibited from using the service.
 
-The service contains confidential and proprietary functionality, internals, data, know-how, and documentation. Keeping these things confidential is essential to our mission.  If you disclose any of our confidential information to any third party, especially those that do not support our mission, you will be held liable for damages. We may seek remedies for violation of this contract, and remedies under trade secret and copyright law. We may also refer you to law enforcement for criminal prosecution.
+The service contains confidential and proprietary functionality, internals, data, know-how, and documentation. Keeping these things confidential is essential to [our mission](/about).  If you disclose any of our confidential information to any third party, especially those that do not support our mission, you will be held liable for damages. We may seek remedies for violation of this contract, and remedies under trade secret and copyright law. We may also refer you to law enforcement for criminal prosecution.
 
 You agree not to send unsolicited communications through this service. You agree to comply with the CAN SPAM act, the Telephone Consumer Protection Act, Do Not Call rules, and any related FCC regulations.
 
