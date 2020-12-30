@@ -49,7 +49,7 @@ If this other service has an API, we can build a plugin that talks to it. Or if 
 
 ### A completely different view of data
 
-Data is the lifeblood of a campaign. Campaign software is where data goes to die.
+Data is the lifeblood of a campaign. And unfortunately, campaign software is where data goes to die.
 
 A vast amount of valuable data is lost at the end of every election cycle because people don't want to pay to keep it around. Most campaigns pay for software, and then stop paying for it when the campaign is over. Their valuable lists disappear. No one is going to continue to pay a monthly fee for a campaign which is over.
 
@@ -69,9 +69,9 @@ Your data can have a life that goes beyond one election cycle or one organizatio
 
 Groundlist is free.
 
-We have made it free because we're committed conservatives, we're tired of losing, and getting good quality software into the hands of conservative campaigns will help.
+We have made it free because we're committed conservatives and we're tired of losing. We can win a few more elections if conservatives have better software. The best way to get people to use the system is to make it free.
 
-But Groundlist does need to make enough money to keep the lights on. If you choose to buy or sell data though our service, we take a small fee.
+But Groundlist does need to make enough money to keep the lights on. We do it by taking a small fee if you choose to buy or sell data through our service.
 
 Eventually, we'll have some low-cost plugins built into Groundlist itself, with a pay-as-you-go pricing model. For example, $X to send Y emails.
 
