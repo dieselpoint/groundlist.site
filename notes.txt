@@ -1,0 +1,17 @@
+Pages are in /pages
+  index and _slug
+Layouts aren't used much. The error page is there.
+/components has NavBar and Footer
+/content has secondary pages, which get processed by the nuxt content module and served by _slug.vue
+
+To test:
+  yarn dev
+To deploy:
+  yarn generate
+
+  git add -A
+  git status // to see what's going on
+  git commit -m "message here"
+  git pull origin master  // in case there are changes there that aren't here
+  git push origin master
+
