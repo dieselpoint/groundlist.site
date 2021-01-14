@@ -31,10 +31,7 @@
       </li>
 
       <li class="nav-item">
-        <a
-          class="nav-link menu-item"
-          href="https://app.groundlist.org"
-          target="_blank"
+        <a class="nav-link menu-item" href="/coming_soon" target="_blank"
           >Sign In</a
         >
       </li>

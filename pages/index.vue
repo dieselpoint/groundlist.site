@@ -13,8 +13,9 @@
           </div>
 
           <div>
+            <!-- https://app.groundlist.org/register -->
             <a
-              href="https://app.groundlist.org/register"
+              href="/coming_soon"
               target="_blank"
               class="btn btn-primary hero-button mx-2"
               >Get A Free-Forever Account</a
