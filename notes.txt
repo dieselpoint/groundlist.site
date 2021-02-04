@@ -12,6 +12,8 @@ To deploy:
   git add -A
   git status // to see what's going on
   git commit -m "message here"
-  git pull origin master  // in case there are changes there that aren't here
+  git pull origin master  // in case there are changes there that aren't here. master->main for newer repos
   git push origin master
+
+
 
