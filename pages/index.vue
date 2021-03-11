@@ -31,7 +31,6 @@
           <div>
             <a
               href="https://app.groundlist.org/register"
-              target="_blank"
               class="btn btn-primary hero-button mx-2"
               >Request an Invitation</a
             >
