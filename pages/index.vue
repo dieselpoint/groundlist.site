@@ -12,13 +12,28 @@
             <span class="under">Republicans and conservatives</span>.
           </div>
 
+          <div class="hero-subtext">
+            Groundlist is available by invitation only.
+          </div>
+
+          <!--
           <div>
-            <!-- https://app.groundlist.org/register -->
+            < ! - - https://app.groundlist.org/register - - >
             <a
               href="/coming_soon"
               target="_blank"
               class="btn btn-primary hero-button mx-2"
               >Get A Free-Forever Account</a
+            >
+          </div>
+          -->
+
+          <div>
+            <a
+              href="https://app.groundlist.org/register"
+              target="_blank"
+              class="btn btn-primary hero-button mx-2"
+              >Request an Invitation</a
             >
           </div>
         </div>

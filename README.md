@@ -28,5 +28,5 @@ git status
 git add -A
 git commit -m "message here"
 git pull origin master
-
+git push origin master
 
