@@ -19,7 +19,7 @@ $ yarn generate
 
 For detailed explanation on how things work, check out [Nuxt.js docs](https://nuxtjs.org).
 
-
+```
 Git cheat sheet
 
 first do a "yarn generate", "yarn start" to test
@@ -29,4 +29,5 @@ git add -A
 git commit -m "message here"
 git pull origin master
 git push origin master
+```
 

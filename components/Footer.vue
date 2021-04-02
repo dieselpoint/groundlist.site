@@ -7,7 +7,7 @@
         <img src="~/assets/images/groundlist_logo6.svg" height="15px" />
       </div>
 
-      <div class="small">Copyright &copy; 2020 Dieselpoint, Inc.</div>
+      <div class="small">Copyright &copy; 2020-2021 Dieselpoint, Inc.</div>
       <div class="small">
         <nuxt-link to="/privacy">Privacy Policy</nuxt-link> /
         <nuxt-link to="/terms_of_service">Terms of Service</nuxt-link>
