@@ -16,4 +16,7 @@ To deploy:
   git push origin master
 
 
+In May, 2023, I edited the generated site directly on github to remove links to app.groundlist.org.
+The reason is that I wanted to shut the server down.
+Properly recompiling the vue app wasn't an option because so many things were broken.
 
